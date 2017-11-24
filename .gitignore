@@ -1,0 +1,47 @@
+*.mo
+*.egg-info
+*.egg
+*.EGG
+*.EGG-INFO
+.bzr
+.svn
+*.pyc
+*.tmp*
+.DS_Store
+*.orig
+_build
+.coverage
+
+# Virtual Env
+/.venv/
+/venv/
+/env/
+/.ark/
+.ark/
+
+# IDE-related Ignores (Visual Studio/Eclipse/Komodo)
+*.pyproj
+*.pyproj.user
+*.sln
+*.v11.suo
+
+.project
+.pydevproject
+.settings/
+
+.komodotools
+*.komodoproject
+
+.idea/
+
+# My Python 3 artifacts
+.venv3/
+pip-1.5.6.tar.gz
+pip-1.5.6/
+setuptools-3.4.4.tar.gz
+setuptools-3.4.4/
+
+
+/dist/*
+/build/*
+/PyArk.egg-info/*
